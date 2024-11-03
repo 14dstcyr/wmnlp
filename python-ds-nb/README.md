@@ -6,3 +6,6 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 ## Rubric
 
 Each question is worth one point.
+
+### Converted my notebook to html  
+Exported in the command line usingthe following to convert to html:  !jupyter nbconvert --to html python-ds.ipynb 
